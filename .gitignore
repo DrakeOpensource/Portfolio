@@ -1,0 +1,15 @@
+;; 07.14.2021
+;; Ryan Drake
+;;
+;; gitignore for Pycharm
+
+;;files to ignore
+settings.py
+
+;;extensions to ignore
+*.log
+*.pot
+*.pyc
+
+;;directories to ignore
+.idea/
