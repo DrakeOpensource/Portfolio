@@ -1,5 +1,3 @@
-# Ryan Drake Portfolio
-
 #### Hello and welcome to my GitHub!
 
 The `Data Science Skill Portfolio` folder contains various skill categories
